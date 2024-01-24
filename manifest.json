@@ -1,0 +1,20 @@
+{
+    "name": "MUC-PWA",
+    "short_name": "MUC-PWA",
+    "start_url": ".",
+    "icons": [
+        {
+            "src": "./muc-logo128x128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "./muc-logo192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#007ec1",
+    "background_color": "#007ec1",
+    "display": "standalone"
+}
